@@ -1,17 +1,18 @@
 .REMOVE_ON_ERROR:
 .SECONDARY:
 
-all: disorganizzazione \
+all: lcdsa \
 		batto1300 \
-		drfebusinc \
+		eddybudge \
 		filmar \
 		frabulous \
-		gio93k \
 		grushnack \
+		h3xcept \
 		harisont \
 		kappanneo \
+		l3ragio \
 		oneclaudio \
-		shizen39
+		scappato
 	@echo "all done!"
 
 clean:
