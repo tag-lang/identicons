@@ -7,12 +7,12 @@ all: lcdsa \
 		filmar \
 		frabulous \
 		grushnack \
-		h3xcept \
+		h3xept \
 		harisont \
 		kappanneo \
 		l3ragio \
 		oneclaudio \
-		scappato
+		scappati
 	@echo "all done!"
 
 clean:
