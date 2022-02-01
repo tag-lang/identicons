@@ -1,18 +1,10 @@
 .REMOVE_ON_ERROR:
 .SECONDARY:
 
-all: lcdsa \
-		batto1300 \
-		eddybudge \
-		filmar \
-		frabulous \
-		grushnack \
-		h3xept \
-		harisont \
+all: taglang \
+		ifcoltransg \
 		kappanneo \
-		l3ragio \
-		oneclaudio \
-		scappati
+		photon-niko
 	@echo "all done!"
 
 clean:

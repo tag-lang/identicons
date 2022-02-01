@@ -1,3 +1,4 @@
 *.png*
 !/samples/disorganizzazione/*
 !/samples/lcdsa/*
+!/samples/taglang/*
